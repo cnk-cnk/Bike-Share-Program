@@ -13,5 +13,5 @@ Riders who purchased an Annual Membership
 The project stakeholder is Lily Moreno,the director of marketing and the manager of Cyclistic, a bike-share company in Chicago. He set the above goal and has a broader vision of the business. The analyst team has to communicate efficiently and frequently with Lily in all steps of the analysis process in order to achieve the goal.
 The analyst team will first hold a meeting with Lily Moreno to ask specific questions about the goal, this will help the team better understand the goal and break down the later into smaller tasks, that will serve as a guide for the analysts team during the process.
 
-## PDF FILE
-View the PDF file to follow the analysis steps, the findings and recommendations.
+## Conclusion
+View the PDF file or python code, to follow the analysis steps, the findings and recommendations.
